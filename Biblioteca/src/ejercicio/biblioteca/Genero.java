@@ -7,7 +7,8 @@ public enum Genero {
 	MUSICA,
 	AVENTURA,
 	SATIRA,
-	NOVELA, 
+	NOVELA,
+	TERROR,
 	HISTORIA, 
 	INFANTILES;
 }
